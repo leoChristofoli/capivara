@@ -1,0 +1,11 @@
+- name: Java
+  percent: 80
+  side: left
+
+- name: Windows
+  percent: 80
+  side: left
+
+- name: Linux
+  percent: 80
+  side: right

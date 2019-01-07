@@ -1,0 +1,23 @@
+- name: Frontend
+  description: Simple, efficient and useful layouts. Fast to develop, easy to maintain.
+  icon: icon-paintbrush
+
+- name: AWS
+  description: Hosting on Amazon Web Store to have a safe and always up application. Painless
+  icon: icon-amazon
+
+- name: Analytics
+  description: Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.
+  icon: icon-search
+
+- name: Backend
+  description: Secure and fast systems. Efficient development using all that the cloud can offer, paying as little as possible.
+  icon: icon-cogs
+
+- name: Web Marketing
+  description: Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.
+  icon: icon-genius
+
+- name: Support
+  description: Client first reprehenderit nemo molestias. Aut cum mollitia reprehenderit.
+  icon: icon-chat

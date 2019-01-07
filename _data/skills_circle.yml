@@ -1,0 +1,17 @@
+- name: Javascript
+  percent: 95
+
+- name: Python
+  percent: 95
+
+- name: C#
+  percent: 90
+
+- name: HTML/CSS
+  percent: 70
+
+- name: Django
+  percent: 95
+
+- name: SQL
+  percent: 95
